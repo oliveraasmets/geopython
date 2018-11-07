@@ -1,1 +1,1 @@
-This is e new document to test version control system. 
+This is a new document to test version control system. 
